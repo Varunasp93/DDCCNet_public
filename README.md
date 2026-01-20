@@ -7,13 +7,16 @@ We (<b>Vogiatzis group </b> at <b>University of Tennessee, Knoxville</b>) have d
 
    and these models use MP2 level electronic structure data as input in predicting the CCSD amplitudes.
 
-Following are the python packages required:
-1. [Numpy](https://numpy.org/)
-2. [Pytorch](https://pytorch.org/)
-3. [PSI4](https://psicode.org/psi4manual/master/build_obtaining.html)
-4. [Pickle](https://docs.python.org/3/library/pickle.html)
-5. [Scikit-learn](https://scikit-learn.org/stable/)
+## Requirements
+Following python packages are required:
+* [Numpy](https://numpy.org/)
+* [Pytorch](https://pytorch.org/)
+* [PSI4](https://psicode.org/psi4manual/master/build_obtaining.html)
+* [Pickle](https://docs.python.org/3/library/pickle.html)
+* [Scikit-learn](https://scikit-learn.org/stable/)
 
+
+## Workflow
 Following is the general workflow of the DDCCNet models.
 1. Generate Data for Training
 2. Training the models
