@@ -7,12 +7,13 @@ We (Vogiatzis group at University of Tennessee, Knoxville) have developed three 
 
    and these models use MP2 level electronic structure data as input in predicting the CCSD amplitudes.
 
-Public version of DDCCNet code. This contains files to train and test DDCCNet_v1, v2 and v3
-In each of these folders there are python scripts to,
+Following is the general workflow of the DDCCNet models.
 1. Generate Data for Training
 2. Training the models
 3. Data generation for testing
 4. Testing the models
+
+Table below shows the files associated with each step of the workflow for each DDCCNet version.
 
 |Function                  |[DDCCNet_v1](DDCCNet_v1)            |[DDCCNet_v2](DDCCNet_v2)           |[DDCCNet_v3](DDCCNet_v3)           |
 |--------------------------|----------------------|---------------------|---------------------|
