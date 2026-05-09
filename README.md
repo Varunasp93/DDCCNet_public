@@ -36,8 +36,8 @@ Table below shows the files associated with each step of the workflow for each D
 
 Following are the other folders:
 
--[Conformers](Conformers/)
-Contains Conformers of all the data sets we used in training and testing the models 
+-[Conformers](XYZ_Conformers/)
+Contains xyz conformers of all the data sets we used in training and testing the models 
 
 -[Results](Results/) 
 Contains results when tested DDCCNet_v2 with GDB5 dataset
