@@ -1,9 +1,9 @@
 # DDCCNet_public
 DDCCNet models are neural network (NN) models tasked with predicting t<sub>1</sub> and t<sub>2</sub> amplitudes for coupled-cluster singles and doubles (CCSD) calculations.
 We (<b>Vogiatzis group </b> at <b>University of Tennessee, Knoxville</b>) have developed three versions of these models,
-1. DDCCNet_v1
-2. DDCCNet_v2
-3. DDCCNet_v3
+1. [DDCCNet_v1](DDCCNet_v1/)
+2. [DDCCNet_v2](DDCCNet_v2/)
+3. [DDCCNet_v3](DDCCNet_v3/)
 
    and these models use MP2 level electronic structure data as input in predicting the CCSD amplitudes.
 
@@ -34,4 +34,5 @@ Table below shows the files associated with each step of the workflow for each D
 
 ## Other folders
 [Conformers](Conformers/): Contains Conformers of all the data sets we used in training and testing the models 
+
 [Results](Results/): Contains results when tested DDCCNet_v2 with GDB5 dataset
