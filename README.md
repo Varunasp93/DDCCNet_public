@@ -7,6 +7,8 @@ We (<b>Vogiatzis group </b> at <b>University of Tennessee, Knoxville</b>) have d
 
    and these models use MP2 level electronic structure data as input in predicting the CCSD amplitudes.
 
+   [Click here](https://arxiv.org/pdf/2601.14073) for the publication.
+
 ## Requirements
 Following python packages are required:
 * [Numpy](https://numpy.org/)
