@@ -33,6 +33,6 @@ Table below shows the files associated with each step of the workflow for each D
 |4. Testing the models         |[Test_NN_v1.py](DDCCNet_v1/Test_NN_v1.py)                |[Test_NN_v2](DDCCNet_v2/Test_NN_v2.py)                   |[Test_NN_v3.py](DDCCNet_v3/Test_NN_v3.py)        |
 
 ## Other folders
-
+Following are the other folders:
 *[Conformers](Conformers/): Contains Conformers of all the data sets we used in training and testing the models 
 *[Results](Results/): Contains results when tested DDCCNet_v2 with GDB5 dataset
